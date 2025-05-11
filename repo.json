@@ -1,0 +1,8 @@
+{
+    "name": "Damn",
+    "description": "hihi",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://gitlab.com/tearrs/nsfw/-/raw/main/plugins.json"
+    ]
+}
